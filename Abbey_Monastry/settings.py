@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-@f1i073wl+l$*l-cb)t*ja+cjqynl#w#u3u6@^_^7u93xm_t3@
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['abbey-monastry.onrender.com']
 
 
 
