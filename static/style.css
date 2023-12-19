@@ -49,7 +49,7 @@ body::-webkit-scrollbar {
     height: 30vh;
     position: relative;
     width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url(g1.png) ;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) , url(../media/MEPKING/g1.png) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
