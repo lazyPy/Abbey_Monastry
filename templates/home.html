@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+{% include 'navbar.html' %}
+
+
+{% include 'header.html' %}
+
+<div class="home-wrapper">
+    <a href="/gardens/" class="linker mt-2">
+        <img src="../media/MEPKING/g2.png" alt="">
+        <div class="text">
+            The Gardens
+        </div>
+    </a>
+    <a href="/brothers/" class="linker mt-2">
+        <img src="../media/MEPKING/brothers.png" alt="">
+        <div class="text">
+            The Brothers 
+        </div>
+    </a>
+    <a href="/retreat-center/" class="linker mt-2">
+        <img src="../media/MEPKING/center.png" alt="">
+        <div class="text">
+            Retreat Center
+        </div>
+    </a>
+</div>
+
+
+{% endblock %}

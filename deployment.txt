@@ -1,0 +1,18 @@
+
+Mepkin Abbey :
+
+What to consider before deploying: 
+
+1). A good knowledge and previous experience of working with Vercel and especially Django. 
+
+2). No need of setting up any cloud Database. 
+
+3). No need of setting up superuser in production. 
+
+4). Make sure the Google Maps are served well in production. 
+
+5). Make sure all the media files are served well in the production environment. 
+
+6). Make sure to install all the dependencies from "requirements.txt" file inside the project folder.
+
+That's all 
